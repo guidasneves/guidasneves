@@ -7,7 +7,7 @@ I am a data scientist with experience in Python, R, SQL, Machine Learning and De
 What will I do today? The same thing I do every day. **Trying to dominate the world ~with data~**!
 
 ## Contact Info
-* [LinkedIn](#https://www.linkedin.com/in/guilherme-neves-silva/)
-* [E-mail](#guinevess10@gmail.com)
-* [Kaggle](#https://www.kaggle.com/guilhermedasneves)
-* [Instagram](#https://www.instagram.com/guineves.py/)
+* [LinkedIn](https://www.linkedin.com/in/guilherme-neves-silva/)
+* [GitHub](guinevess10@gmail.com)
+* [Kaggle](https://www.kaggle.com/guilhermedasneves)
+* [Instagram](https://www.instagram.com/guineves.py/)
