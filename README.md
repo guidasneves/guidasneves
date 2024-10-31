@@ -8,6 +8,6 @@ What will I do today? The same thing I do every day. **Trying to dominate the wo
 
 ## Contact Info
 * [LinkedIn](https://www.linkedin.com/in/guilherme-neves-silva/)
-* [GitHub](guinevess10@gmail.com)
+* [GitHub](https://github.com/guidasneves)
 * [Kaggle](https://www.kaggle.com/guilhermedasneves)
 * [Instagram](https://www.instagram.com/guineves.py/)
