@@ -9,5 +9,6 @@ What will I do today? The same thing I do every day. Trying to dominate the worl
 ## Contact Info
 * [LinkedIn](https://www.linkedin.com/in/guilherme-neves-silva/)
 * [GitHub](https://github.com/guidasneves)
+* [Medium](https://medium.com/@guineves.py/)
 * [Kaggle](https://www.kaggle.com/guilhermedasneves)
 * [Instagram](https://www.instagram.com/guineves.py/)
