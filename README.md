@@ -1,6 +1,6 @@
 # Hi, I am Guilherme Neves Silva 👋
 
-Data Scientist with expertise in Python, R, SQL, Machine Learning and Deep Learning models (RNN, NLP, CNN, Transformers, LSTM, GRUs, language models, clustering, RecSys, tree models), development of AI models, fine-tuning of pre-trained models, cloud computing, Databricks, optimization, automation, continuous improvement for process optimization, proficient in data democratization and delivering business insights.
+Data Scientist with expertise in Machine Learning and Deep Learning models (NLP, Transformers, LSTMs, GRUs, Computer Vision, Language Models, Clustering, RecSys, Anomaly Detection, Time Series), Generative AI models (LLMs), development of AI models, fine-tuning pre-trained models, cloud computing, testing, monitoring and maintenance of models, and continuous improvement for process optimization. I have an article published on Medium about a project I created, an end-to-end Spotify recommendation system.
 
 I am a data and technology enthusiast passionate about combining theory & technology to solve real-world problems, developing solutions that drive change and real impact with machine learning and AI, transforming the way we live and transforming the data into tangible business value, communicating results and collaborating on data products development!
 
